@@ -11,12 +11,12 @@ namespace MinhChatApiTest
 
     //public class TestMessageController
     //{
-    //    [Fact] 
+    //    [Fact]
     //    //public void GetMessages_ValidRequest_ReturnsAListOfMessages(int Id)
     //    //{
-           
-    //    //   Assert.Equal(200, Ok);
+    //    //  var x= GetMessages
+            
     //    //}
-        
+
     //}
 }
