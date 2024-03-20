@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinhChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b6c7c8d688ad916df71028634f0dd6c40fdcefe")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinhChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinhChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
