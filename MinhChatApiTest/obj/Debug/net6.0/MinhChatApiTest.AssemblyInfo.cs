@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinhChatApiTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d59cbf0205934e18bf37066a92ac696d0370700")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinhChatApiTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinhChatApiTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
