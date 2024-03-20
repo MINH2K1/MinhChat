@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MinhChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FE524-17F9-4443-83FB-C278BEF10191}|MinhChatApiTest\\MinhChatApiTest.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchatapitest\\testmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0FE524-17F9-4443-83FB-C278BEF10191}|MinhChatApiTest\\MinhChatApiTest.csproj|solutionrelative:minhchatapitest\\testmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\dbcontext\\minhchatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\dbcontext\\minhchatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\controllers\\roomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\controllers\\roomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\model\\uploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\model\\uploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\mapper\\uploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\mapper\\uploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\model\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\model\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\model\\usercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\model\\usercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\model\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\model\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\model\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\model\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\model\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\model\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\data\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\data\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|c:\\users\\admin\\source\\repos\\minhchat\\minhchat\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8491D1F-AAD3-4605-B4AA-D197F519661E}|MinhChat\\MinhChat.csproj|solutionrelative:minhchat\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Program.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Program.cs",
+              "RelativeToolTip": "MinhChat\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:51:44.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChatApiTest\\TestMessageController.cs",
+              "RelativeDocumentMoniker": "MinhChatApiTest\\TestMessageController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChatApiTest\\TestMessageController.cs",
+              "RelativeToolTip": "MinhChatApiTest\\TestMessageController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvxAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:13:05.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinhChatDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\DbContext\\MinhChatDBContext.cs",
+              "RelativeDocumentMoniker": "MinhChat\\DbContext\\MinhChatDBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\DbContext\\MinhChatDBContext.cs",
+              "RelativeToolTip": "MinhChat\\DbContext\\MinhChatDBContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:27:37.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "MinhChat\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:20:25.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "MinhChat\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:42:40.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Data\\User.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Data\\User.cs",
+              "RelativeToolTip": "MinhChat\\Data\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:10:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\MessageViewModel.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Model\\MessageViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\MessageViewModel.cs",
+              "RelativeToolTip": "MinhChat\\Model\\MessageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:26:24.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Controllers\\RoomeController.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Controllers\\RoomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Controllers\\RoomeController.cs",
+              "RelativeToolTip": "MinhChat\\Controllers\\RoomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:23:45.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "MinhChat\\Controllers\\UploadController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:31:24.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UploadViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Mapper\\UploadViewModel.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Mapper\\UploadViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Mapper\\UploadViewModel.cs",
+              "RelativeToolTip": "MinhChat\\Mapper\\UploadViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:30:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UploadViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\UploadViewModel.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Model\\UploadViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\UploadViewModel.cs",
+              "RelativeToolTip": "MinhChat\\Model\\UploadViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:55:08.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\UserCreateRequest.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Model\\UserCreateRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\UserCreateRequest.cs",
+              "RelativeToolTip": "MinhChat\\Model\\UserCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:50:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Model\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\UserViewModel.cs",
+              "RelativeToolTip": "MinhChat\\Model\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:37:47.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Model\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\RoleViewModel.cs",
+              "RelativeToolTip": "MinhChat\\Model\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:38:06.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\RoomViewModel.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Model\\RoomViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Model\\RoomViewModel.cs",
+              "RelativeToolTip": "MinhChat\\Model\\RoomViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:32:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Data\\Room.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Data\\Room.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Data\\Room.cs",
+              "RelativeToolTip": "MinhChat\\Data\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:14:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Data\\Role.cs",
+              "RelativeDocumentMoniker": "MinhChat\\Data\\Role.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MinhChat\\MinhChat\\Data\\Role.cs",
+              "RelativeToolTip": "MinhChat\\Data\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:14:17.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
